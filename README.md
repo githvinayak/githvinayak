@@ -16,6 +16,6 @@ I'm a dedicated MERN stack developer based in Ambala, Haryana, India. Here's a b
 ![](https://github-contributor-stats.vercel.app/api?username=githvinayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=githvinayak&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=githvinayak&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
